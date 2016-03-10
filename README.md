@@ -11,3 +11,7 @@ This is a java program that acts as a books Magicians for particulars holidays. 
   <li>The program also allows the user to drop a Magician, in which case the customer he was booked with is added to the waitlist.</li>
   
 </ul>
+
+#Screen shot
+![alt tag](https://github.com/Nnamdi101/Booking-Agent/blob/master/Screen%20Shot%202016-03-10%20at%204.00.34%20PM.png)
+![alt tag]()

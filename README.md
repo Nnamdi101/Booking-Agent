@@ -12,6 +12,11 @@ This is a java program that acts as a books Magicians for particulars holidays. 
   
 </ul>
 
-#Screen shot
-![alt tag](https://github.com/Nnamdi101/Booking-Agent/blob/master/Screen%20Shot%202016-03-10%20at%204.00.34%20PM.png)
-![alt tag]()
+#Screen shots
+<ul>
+<li>![alt tag](https://github.com/Nnamdi101/Booking-Agent/blob/master/Screen%20Shot%202016-03-10%20at%204.00.34%20PM.png)</li>
+
+
+<li>![alt tag](https://github.com/Nnamdi101/Booking-Agent/blob/master/Screen%20Shot%202016-03-10%20at%204.01.02%20PM.png)</li>
+
+</ul>

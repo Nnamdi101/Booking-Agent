@@ -2,7 +2,7 @@
 This is a java program that acts as a books Magicians for particulars holidays. It utilizes SQL and a graphics user interface to enhance the user experience. 
 # Specification
 <ul>
-  <p>The UI provides a book botton for booking a customer  and combo-box specifying the holiday. The program takes an available Magician   from the magican table in the database and books the customer for the holiday.</p>
+  <li>The UI provides a book botton for booking a customer  and combo-box specifying the holiday. The program takes an available Magician   from the magican table in the database and books the customer for the holiday.</li>
 
   <li>In the event all magicians are booked for a holiday, the customers are added to a waitlist</li>
 
